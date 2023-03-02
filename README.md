@@ -1,7 +1,4 @@
 # Survival Game
-  This game is a Survival Game made with Unity. Not finished and won't finish :).
-## Unity Version
-Unity 2018.4.26f1
  <br>
 ## Fallowed Tutorials
 - [First Person Movement from Brackeys](https://youtu.be/_QajrabyTJc)
@@ -9,19 +6,6 @@ Unity 2018.4.26f1
 - [Raycasting from Sebastian Lague](https://youtu.be/fFq5So-UB0E)
 - [Inventory System from Brackeys (5th,6th and 7th videos)](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7)
   <br>
-## Roadmap
-#### Todo :o:
-- [ ] Implement Attacking and loot drops.
-- [ ] Implement Crafting.
-- [ ] Implement Mining, Lumbering etc.
-- [ ] Add Voices, particles and more animations.
-- [ ] Add Building system.
-- [ ] Implement Crouching. // Delayed.
-- [ ] Add Save System. // Delayed.
-
-#### In Progress <img src="https://i.imgur.com/RlS6YST.gif" alt="https://i.imgur.com/RlS6YST.gif">
-- [ ] Implement UI / Menu.
-- [ ] Implement More Interactive Objects doors and chests etc.
 
 #### Done :heavy_check_mark:
 - [x] Basic Movement (Walk, jump, gravity etc.) handled.
