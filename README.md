@@ -1,10 +1,5 @@
 # Survival Game
- <br>
-## Fallowed Tutorials
-- [First Person Movement from Brackeys](https://youtu.be/_QajrabyTJc)
-- [Creating a SURVIVAL UI System from SpeedTutor](https://youtu.be/OcFIFOi3ZPk)
-- [Raycasting from Sebastian Lague](https://youtu.be/fFq5So-UB0E)
-- [Inventory System from Brackeys (5th,6th and 7th videos)](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7)
+
   <br>
 
 #### Done :heavy_check_mark:
